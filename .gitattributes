@@ -1,0 +1,9 @@
+# Generated on 2026-11-15
+*.svg text
+public/* linguist-vendored
+*.yaml linguist-detectable=false
+
+*.astro linguist-detectable
+public/index.html linguist-vendored
+dist/* linguist-vendored
+src/**/*.astro linguist-detectable
