@@ -1,0 +1,4 @@
+.next/
+.env.local
+yarn-error.log*
+*.log
